@@ -1,5 +1,5 @@
-##Participantes 
+## 👥 Participantes
 
-Kleber da silva rm557887
-Lucas Rainha rm558471
-Nicolas Barutti rm554944
+- Kleber da Silva RM- 557887
+- Nicolas Barutti RM- 554944
+- Lucas Rainha RM- 558471
